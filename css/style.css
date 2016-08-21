@@ -1,0 +1,21 @@
+
+body {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+p {
+    text-align: center;
+}
+.menu-variant{
+	list-style:none;
+}
+button[type="submit"] {
+   font-size: 20px;
+
+}
+.button-center{
+   text-align: center;	
+}
+.menu-variant {
+	padding-left:0px;
+}
